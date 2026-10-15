@@ -1,4 +1,15 @@
-﻿Console.ForegroundColor = ConsoleColor.Cyan;
+﻿
+string ascii = """
+    .__                                              
+    |__|____    ____     _____  __ __   ____   ______
+    |  \__  \  /    \   /     \|  |  \_/ __ \ /  ___/
+    |  |/ __ \|   |  \ |  Y Y  \  |  /\  ___/ \___ \ 
+    |__(____  /___|  / |__|_|  /____/  \___  >____  >
+            \/     \/        \/            \/     \/ 
+    """;
+Console.WriteLine(ascii);
+
+Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine("\tIan Mues");
 Console.WriteLine("---------------------------------");
 Console.ResetColor();
