@@ -5,3 +5,4 @@ Console.ResetColor();
 Console.WriteLine("Opleiding: \t graduaat programmeren");
 Console.WriteLine("Klasgroep: \t 1PROd");
 Console.WriteLine("leuktste olod: \t C# essentials");
+Console.WriteLine("hi");
